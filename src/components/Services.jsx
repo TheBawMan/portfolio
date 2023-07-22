@@ -33,8 +33,8 @@ const Services = () => {
           whileInView={animations.whileInView}
           initial={animations.one}
         >
-          <h3>9+</h3>
-          <p>Months Experience</p>
+          <h3>2+</h3>
+          <p>Years Experience</p>
         </motion.div>
         <motion.div
           className="serviceBox2"
