@@ -12,7 +12,7 @@
         "title": "SparkFly",
         "description": "SparkFly is a full fledged shopping website created with MERN Stack. Fully Functional website made for business purposes.",
         "url": "https://sparkfly.vercel.app",
-        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYKU0vSZ5BbstA9la-AlnC3sJdGQIMNTyvng&usqp=CAUe14&_nc_ohc=fHJX4emRjqwAX-DEsnw&tn=DuPSxERAFgNeDzqH&_nc_ht=scontent.frdp2-1.fna&oh=00_AfBvCP1uOT4BxnsqDntQwXdiBxuJvNlOnIVILQoShvzPew&oe=637A9EE4"
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYKU0vSZ5BbstA9la-AlnC3sJdGQIMNTyvng&usqp=CAUe14&_nc_ohc=fHJX4emRjqwAX-DEsnw&tn=DuPSxERAFgNeDzqH&_nc_ht=scontent.frdp2-1.fna&oh=00_AfBvCP1uOT4BxnsqDntQwXdiBxuJvNlOnIVILQoShvzPew&oe=637A9EE4",
       },
         {
             "date": "20/07/2023",
@@ -20,6 +20,6 @@
             "description": "Sankalp is a trustee website made for client (Owner of Sankalp Educational Trust). This is my first freelancing website made with MERN Stack.",
             "url":"https://sankalpeducationaltrust.vercel.app",
             "imgSrc":"https://uploadnow.io/en/share?utm_medium=f7160132-f824-469b-b399-b8f3883fe379&utm_term=t",
-        }
+        },
     ]
   }
