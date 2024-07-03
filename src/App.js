@@ -24,7 +24,7 @@ const App = () =>{
     };
   }, [ratio]);
 
-  return ratio < 5.2 ? (
+  return ratio < 0.2 ? (
     <>
       <HeaderPhone menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <Header menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
