@@ -38,7 +38,7 @@ const App = () =>{
       <Toaster />
     </>
   ) : (
-    <em id="customMessage">This Site is Under Maintenance! <br></br>New & Rwdesigned Version is Coming...</em>
+    <em id="customMessage">This Site is Under Maintenance! <br></br>New & Redesigned Version is Coming...</em>
   );
 }
 export default App;
