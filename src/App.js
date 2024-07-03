@@ -6,7 +6,7 @@ import Services from "./components/Services";
 import Testimonial from "./components/Testimonial";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import Footer from "./components/MaintenanceBanner";
+
 import { Toaster } from "react-hot-toast";
 import { useEffect, useState } from "react";
 
