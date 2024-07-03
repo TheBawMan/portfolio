@@ -38,7 +38,7 @@ const App = () =>{
       <Toaster />
     </>
   ) : (
-    <em id="customMessage">Please Change the ratio to View!</em>
+    <em id="customMessage">This Site is Under Maintenance! <br></br>New & Rwdesigned Version is Coming...</em>
   );
- 
+}
 export default App;
