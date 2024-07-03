@@ -10,7 +10,7 @@ import { Toaster } from "react-hot-toast";
 import { useEffect, useState } from "react";
 
 function App() {
-  const [menuOpen, setMenuOpen] = useState(false);
+    const [menuOpen, setMenuOpen] = useState(false);
   const [ratio, setRatio] = useState(window.innerWidth / window.innerHeight);
   useEffect(() => {
     const resizeRatio = () => {
@@ -38,8 +38,7 @@ function App() {
       <Toaster />
     </>
   ) : (
-    <em id="customMessage">This Site is Under Maintenance! New & Rwdesigned Version is Coming...</em>
+    <em id="customMessage">Please Change the ratio to View!</em>
   );
  
-
 export default App;
